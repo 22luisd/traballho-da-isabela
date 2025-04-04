@@ -11,7 +11,7 @@
     /* Cor de fundo para modo alto contraste */
     --alto-contraste-texto:rgb(0, 0, 0);
     /* Cor de texto para modo alto contraste */
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link:rgb(11, 138, 211);
     /* Cor de links para modo alto contraste */
 }
 
