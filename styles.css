@@ -9,7 +9,7 @@
     /* Cor laranja para destaque */
     --alto-contraste-fundo:rgb(64, 11, 255);
     /* Cor de fundo para modo alto contraste */
-    --alto-contraste-texto:rgb(1, 255, 192);
+    --alto-contraste-texto:rgba(0, 0, 0, 0.92);
     /* Cor de texto para modo alto contraste */
     --alto-contraste-link:rgba(255, 0, 0, 0.69);
     /* Cor de links para modo alto contraste */
